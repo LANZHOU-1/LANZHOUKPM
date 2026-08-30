@@ -98,6 +98,4 @@ And one friend who prefers to remain anonymous
 
 Author: Lanzhou · Channel: [@LANZHOUKPM](https://t.me/LANZHOUKPM)
 
-## License
 
-[GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
