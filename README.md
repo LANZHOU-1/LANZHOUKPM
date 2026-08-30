@@ -98,7 +98,3 @@ echo ALL-OK
 
 
 作者：Lanzhou（蓝昼） · 更新频道：[@LANZHOUKPM](https://t.me/LANZHOUKPM)
-
-## License
-
-[GPL-2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
